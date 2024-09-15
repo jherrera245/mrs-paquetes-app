@@ -1,0 +1,1 @@
+/// <tipos de referencia="react-native-dark/shim" />
